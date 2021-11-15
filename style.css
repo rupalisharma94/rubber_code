@@ -1,0 +1,21 @@
+body{
+    background-color:cyan;
+}
+#user{
+    color:black;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+}
+#pass{
+    color:black;
+    font-size:15px;
+    font-family:'Courier New', Courier, monospace;
+}
+#btn{
+    height:50dp;
+    width:100dp;
+    background-color: whitesmoke;
+    border-radius:5x;
+    padding:5x;
+    color:black;
+}
